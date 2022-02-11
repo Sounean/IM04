@@ -1,0 +1,2 @@
+include ':app', ':easeuitest', ':moudule-easeui', ':moudule-hot', ':lib-base'
+rootProject.name='IM04'

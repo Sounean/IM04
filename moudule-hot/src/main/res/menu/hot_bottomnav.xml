@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/hot_bottom_jump"
+        android:icon="@drawable/hot_banner_hot"
+        android:title="热门" />
+
+    <item
+        android:id="@+id/chat_bottom_jump"
+        android:icon="@drawable/hot_banner_chat"
+        android:title="社交" />
+
+</menu>

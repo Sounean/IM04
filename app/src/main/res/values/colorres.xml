@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--自定义绿色-->
+    <color name="green">#028a7e</color>
+    <!-- 自定义的白颜色-->
+    <color name="white">#ffffff</color>
+    <!-- 自定义的灰颜色-->
+    <color name="gray">#6f6f6f</color>
+</resources>
